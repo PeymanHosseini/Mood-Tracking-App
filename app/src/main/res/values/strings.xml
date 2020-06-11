@@ -10,5 +10,9 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="text">Enter your Information</string>
-    <string name="hint">Enter Email...</string>
+    <string name="hintEmailBox">Enter Email</string>
+    <string name="hintPasswordBox">Enter Password</string>
+    <string name="buttonContinue">Continue</string>
+    <string name="privacyPolicyText">By creating an account you agree to our
+    Terms of Service and Privacy Policy</string>
 </resources>
